@@ -18,3 +18,5 @@ Commit #9 Rebase example for master
 
 Commit #10 Rebase for Feature2 branch
 
+Commit #10 Rebase for Feature2 Act 2
+
